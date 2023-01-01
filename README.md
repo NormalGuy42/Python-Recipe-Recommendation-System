@@ -1,2 +1,2 @@
-# Python-Recommendation-System
+# Python-Recipe-Recommendation-System
 A project I submitted to my AP Computer Science Principles course. I wanted to experiment with Pandas and decided on the idea of a recipe recommendation system. I got the database of recipes from Jack Leitch, here's the repo link https://github.com/jackmleitch/Whatscooking- He also has a really nice blogpost where he explains the process of making a recipe recommendation system that is a billion times better than mine https://towardsdatascience.com/building-a-recipe-recommendation-system-297c229dda7b
